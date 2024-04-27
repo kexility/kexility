@@ -70,8 +70,9 @@ I've already worked with:
 - ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
 - ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
 
-And more that we don't care...
-
+<p align="center">
+   <img src="https://komarev.com/ghpvc/?username=kexility" alt="kexility"/>
+</p>
 
 <div align="left">
   <img style="object-fit: cover; width: 70%;" src="https://github-readme-stats-one-bice.vercel.app/api?username=kexility&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&show_icons=true&text_color=ffffff&count_private=true&hide_title=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"/>
