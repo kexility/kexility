@@ -3,9 +3,12 @@
 ### Hi there 👋
 
 > [!NOTE] 
-> test
-
-- :electron: I’m currently working on my Minecraft Server
-- :atom: I’m currently learning Python
-- :bowtie: I’m looking to collaborate on anything...
-- :dependabot: How to reach me: https://dsc.gg/kexility
+> 
+>
+> - :electron: I’m currently working on my Minecraft Server
+> [!TIP] 
+> - :atom: I’m currently learning Python
+> [!CAUTION] 
+> - :bowtie: I’m looking to collaborate on anything...
+> [!IMPORTANT] 
+> - :dependabot: How to reach me: https://dsc.gg/kexility
