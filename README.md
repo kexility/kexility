@@ -14,3 +14,19 @@
 
 > [!IMPORTANT] 
 > - :dependabot: How to reach me: https://dsc.gg/kexility
+
+### I also create content on social networks
+<a href="https://www.instagram.com/cpt_z3r0" target="_blank">
+    <img src="src/instagram.png" width="40px" height="40px">
+</a>
+<a href="https://tiktok.com/@cpt_z3r0" target="_blank">
+    <img src="src/tiktok.png" width="40px" height="40px">
+</a>
+
+<a href="https://linkedin.com/in/daniel-enriquez-lucas/" target="_blank">
+    <img src="src/linkedin.png" width="40px" height="40px">
+</a>
+
+<a href="https://twitter.com/DevCaress" target="_blank">
+    <img src="src/twitter.png" width="40px" height="40px">
+</a>
