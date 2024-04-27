@@ -23,7 +23,7 @@
     <img src="src/tiktok.png" width="40px" height="40px">
 </a>
 
-<a href="https://linkedin.com/in/z3r0/" target="_blank">
+<a href="https://linkedin.com/in/z3ro/" target="_blank">
     <img src="src/linkedin.png" width="40px" height="40px">
 </a>
 
