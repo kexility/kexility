@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-> [NOTE] 
+> [!NOTE] 
 > test
 
 - :electron: I’m currently working on my Minecraft Server
