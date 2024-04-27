@@ -53,6 +53,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
-### Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevCaress&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+   <img src="https://komarev.com/ghpvc/?username=MineGame159" alt="MineGame159"/>
+</p>
+
+<p align="center">
+<img alt="My repo stats" src="https://github-readme-stats.vercel.app/api?username=MineGame159&show_icons=true&theme=radical">
+</p>
