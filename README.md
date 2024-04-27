@@ -23,11 +23,11 @@
     <img src="src/tiktok.png" width="40px" height="40px">
 </a>
 
-<a href="https://linkedin.com/in/daniel-enriquez-lucas/" target="_blank">
+<a href="https://linkedin.com/in/z3r0/" target="_blank">
     <img src="src/linkedin.png" width="40px" height="40px">
 </a>
 
-<a href="https://twitter.com/DevCaress" target="_blank">
+<a href="https://twitter.com/cpt_z3r0" target="_blank">
     <img src="src/twitter.png" width="40px" height="40px">
 </a>
 
