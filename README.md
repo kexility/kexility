@@ -2,7 +2,8 @@
 
 ### Hi there 👋
 
-
+> [NOTE] 
+> test
 
 - :electron: I’m currently working on my Minecraft Server
 - :atom: I’m currently learning Python
