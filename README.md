@@ -2,13 +2,14 @@
 
 ### Hi there 👋
 
-> [!NOTE] 
-> 
->
+> [!NOTE]
 > - :electron: I’m currently working on my Minecraft Server
+
 > [!TIP] 
 > - :atom: I’m currently learning Python
+
 > [!CAUTION] 
 > - :bowtie: I’m looking to collaborate on anything...
+
 > [!IMPORTANT] 
 > - :dependabot: How to reach me: https://dsc.gg/kexility
